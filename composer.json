@@ -1,0 +1,20 @@
+"name": "yourRepo/elementor-pro",
+"description": "",
+"keywords": [
+"wordpress",
+"plugin"
+],
+"homepage":
+"https://github.com/yourRepo/elementor-pro
+",
+"authors": [
+{
+"name": "Elementor-pro",
+"homepage":
+"https://eileenlue.com"
+}
+],
+"type": "wordpress-plugin",
+"require": {
+"php": ">5.6"
+}
