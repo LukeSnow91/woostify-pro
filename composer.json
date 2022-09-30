@@ -1,20 +1,24 @@
-"name": "yourRepo/elementor-pro",
-"description": "",
+
+"name": "lukesnow91/woostify-pro", "description": "",
 "keywords": [
-"wordpress",
-"plugin"
+
+"wordpress", "plugin"
 ],
+
 "homepage":
-"https://github.com/yourRepo/elementor-pro
-",
+"https://github.com/lukesnow91/woostify-pro",
 "authors": [
+
 {
-"name": "Elementor-pro",
-"homepage":
+"name": "woostify-pro", "homepage":
 "https://eileenlue.com"
 }
+
 ],
-"type": "wordpress-plugin",
-"require": {
+
+"type": "wordpress-plugin", "require": {
 "php": ">5.6"
+
+}
+
 }
